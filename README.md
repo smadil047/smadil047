@@ -1,6 +1,6 @@
 # set correct identity (important)
 git config --global user.name "Syed Adil"
-git config --global user.email "your-email@example.com"   # use the email linked to your GitHub account
+git config --global user.email "smadil047@gmail.com"   # use the email linked to your GitHub account
 
 # create local folder and README
 mkdir smadil047
